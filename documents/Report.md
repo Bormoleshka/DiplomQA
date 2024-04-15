@@ -23,10 +23,10 @@
 
 #### Подготовлены отчёты:
 * [Отчёт Gradle](https://github.com/Bormoleshka/DiplomQA/blob/main/documents/images/GradleReport_MySQL.png)
-* [Отчёт Allure](https://github.com/Volgogradec/QA-Diplom/issues/14)
+* [Отчёт Allure](https://github.com/Bormoleshka/DiplomQA/blob/main/documents/images/AllureReport_1.png)
 
 ### Общие рекомендации
-* Устранить выявленные баги. Указаны в [issue](https://github.com/Volgogradec/QA-Diplom/issues);
+* Устранить выявленные баги.
 * Визуально отделить способы оплаты (например, сделать разный фон вкладок);
 * Кнопки "Купить" и "Купить в кредит" при нажатии должны изменять цвет, означающий активность выбранного способа оплаты;
 * Кнопка "Продолжить" должна становиться активной при отсутствии ошибок при заполнении полей формы.
