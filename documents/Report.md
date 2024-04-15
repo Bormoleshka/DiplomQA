@@ -22,7 +22,7 @@
 * 14 не успешных – что составляет 37 %
 
 #### Подготовлены отчёты:
-* [Отчёт Gradle](https://github.com/Volgogradec/QA-Diplom/issues/13)
+* [Отчёт Gradle](https://github.com/Bormoleshka/DiplomQA/blob/main/documents/images/GradleReport_MySQL.png)
 * [Отчёт Allure](https://github.com/Volgogradec/QA-Diplom/issues/14)
 
 ### Общие рекомендации
