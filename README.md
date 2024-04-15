@@ -1,22 +1,22 @@
 # Дипломный проект профессии «Тестировщик»
-В рамках дипломного проекта требовалось автоматизировать тестирование комплексного сервиса покупки тура, взаимодействующего с СУБД и API Банка.
+Требуется автоматизировать тестирование комплексного сервиса покупки тура, взаимодействующего с СУБД и API Банка.
 
 База данных хранит информацию о заказах, платежах, статусах карт, способах оплаты.
 
 Для покупки тура есть два способа: с помощью карты и в кредит. В приложении используются два отдельных сервиса оплаты: Payment Gate и Credit Gate.
 
-[Ссылка на Дипломное задание](https://github.com/netology-code/qa-diploma).
+
 
 ## Тестовая документация
-1. [План тестирования](https://github.com/Volgogradec/QA-Diplom/blob/main/documents/Plan.md);
-1. [Отчёт по итогам тестирования](https://github.com/Volgogradec/QA-Diplom/blob/main/documents/Report.md);
-1. [Отчет по итогам автоматизации](https://github.com/Volgogradec/QA-Diplom/blob/main/documents/Summary.md)
+1. [План тестирования](https://github.com/Bormoleshka/DiplomQA/blob/main/documents/Plan.md));
+1. [Отчёт по итогам тестирования](https://github.com/Bormoleshka/DiplomQA/blob/main/documents/Report.md);
+1. [Отчет по итогам автоматизации](https://github.com/Bormoleshka/DiplomQA/blob/main/documents/Summary.md)
 
 ## Запуск приложения
 ### Подготовительный этап
 1. Установить и запустить IntelliJ IDEA;
 1. Установать и запустить Docker Desktop;
-1. Скопировать репозиторий с Github [по ссылке](https://github.com/Volgogradec/QA-Diplom.git).
+1. Скопировать репозиторий с Github (https://github.com/Bormoleshka/DiplomQA.git)
 1. Открыть проект в IntelliJ IDEA.
 
 ### Запуск тестового приложения
